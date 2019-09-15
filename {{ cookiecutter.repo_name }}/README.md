@@ -1,4 +1,4 @@
-{{cookiecutter.project_name}}
+{{cookiecutter.project_name}} by {{ cookiecutter.author_name }}
 ==============================
 
 {{cookiecutter.description}}
